@@ -178,7 +178,7 @@ def titlePrinter():
 	| 	screen -r deepminer to reattach to the screen		       |
 	| To exit the program press Ctrl+Shift+\	
 	|
-	Bumbellbee linux.
+	By- Kartikeya srivastava.
 	------------------------------------------------------------------------
 
 
